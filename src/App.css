@@ -207,3 +207,8 @@
   top: 150px;
   color: lightgray;
 }
+
+.link {
+  color: inherit;
+  text-decoration: none;
+}
