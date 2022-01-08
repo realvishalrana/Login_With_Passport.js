@@ -131,14 +131,14 @@
   justify-content: center;
 }
 
-.or {
+/* .or {
   border: 2px solid lightgray;
   border-radius: 50%;
   padding: 10px;
   color: gray;
   background-color: white;
   font-weight: bold;
-}
+} */
 
 .line {
   /* width: 0.5px;
@@ -173,9 +173,6 @@
   background-color: #df4930;
 }
 
-.facebook {
-  background-color: #507cc0;
-}
 .github {
   background-color: black;
 }
@@ -186,11 +183,11 @@
   margin-right: 10px;
 }
 
-.input-1 {
+/* .input-1 {
   width: 200px;
   padding: 15px 20px;
   margin-bottom: 20px;
-}
+} */
 
 .submit {
   width: 200px;
